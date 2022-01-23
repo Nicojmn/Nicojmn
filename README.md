@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nicojmn
 - 👀 I’m interested in writing open-source / free project on any subject
 - 🌱 I’m currently learning computer sciences at UCLouvain
-- 💻 I'm currently working on Spotify LibreManager 
 - 📫 How to reach me : nicolas.jeanmenne@student.uclouvain.be
 
 <!---
